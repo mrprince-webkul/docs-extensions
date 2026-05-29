@@ -40,7 +40,8 @@ const projects = [
   // { slug: 'starter-pack', label: 'Starter Pack' },
   { slug: 'auto-sku-generator', label: 'Auto SKU Generator' },
   { slug: 'deepl', label: 'DeepL Translator' },
-  { slug: 'cloudflare-r2-integration', label: 'Cloudflare R2 Integration' }
+  { slug: 'cloudflare-r2-integration', label: 'Cloudflare R2 Integration' },
+  { slug: 'version-history-restore', label: 'Version History Restore' }
 ] as const
 
 export default defineConfig({

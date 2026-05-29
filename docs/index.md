@@ -105,9 +105,9 @@ features:
   - title: Cloudflare R2 Integration
     details: Offload product and category media to Cloudflare R2 storage with CDN delivery.
     link: /cloudflare-r2-integration/
-    linkText: Read docs,
+    linkText: Read docs
   - title: Version History Restore
-    details: Role-based product and asset approvals.
+    details: Unopim Version History Restore and Thumbnail preview.
     link: /version-history-restore/
     linkText: Read docs
 ---

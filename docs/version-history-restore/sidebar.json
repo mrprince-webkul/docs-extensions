@@ -1,0 +1,38 @@
+[
+  {
+    "text": "Getting Started",
+    "items": [
+      { "text": "Overview",                "link": "/version-history-restore/" },
+      { "text": "Installation",            "link": "/version-history-restore/installation" }
+    ]
+  },
+  {
+    "text": "User Guide",
+    "items": [
+      { "text": "The History Tab",         "link": "/version-history-restore/history-tab" },
+      { "text": "Previewing Files",        "link": "/version-history-restore/previewing-files" },
+      { "text": "Restoring a Version",     "link": "/version-history-restore/restoring-versions" }
+    ]
+  },
+  {
+    "text": "Configuration",
+    "items": [
+      { "text": "Settings",                "link": "/version-history-restore/settings" },
+      { "text": "Permissions & Access",    "link": "/version-history-restore/permissions" }
+    ]
+  },
+  {
+    "text": "Maintenance",
+    "items": [
+      { "text": "Purging Old History",     "link": "/version-history-restore/purging-history" }
+    ]
+  },
+  {
+    "text": "Reference",
+    "items": [
+      { "text": "Supported Files & Coverage", "link": "/version-history-restore/supported-files" },
+      { "text": "Testing",                     "link": "/version-history-restore/testing" },
+      { "text": "Troubleshooting & FAQ",       "link": "/version-history-restore/troubleshooting" }
+    ]
+  }
+]
