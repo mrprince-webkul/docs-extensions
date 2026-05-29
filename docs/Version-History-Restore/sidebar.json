@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Supplier Data Portal",
+    "items": [
+      { "text": "Overview",       "link": "/supplier-data-portal/" },
+      { "text": "Installation",   "link": "/supplier-data-portal/installation" },
+      { "text": "Admin Guide",    "link": "/supplier-data-portal/admin-guide" },
+      { "text": "Supplier Guide", "link": "/supplier-data-portal/supplier-guide" }
+    ]
+  }
+]
