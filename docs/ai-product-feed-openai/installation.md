@@ -19,7 +19,7 @@ Unzip the extension archive. It contains a `packages` folder. Merge it into your
 
 ## Step 2: Add the SFTP library (optional)
 
-Skip this step if you will only share the feed URL with OpenAI. If you want UnoPim to **upload** the feed to OpenAI over SFTP, install the SFTP storage adapter:
+OpenAI receives merchant feeds over SFTP, so install the SFTP storage adapter if you are submitting to ChatGPT. Skip it only if you just need the feed URL, for example to download and check the file:
 
 ```bash
 composer require league/flysystem-sftp-v3:^3.0

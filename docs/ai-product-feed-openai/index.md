@@ -27,8 +27,11 @@ You set the feed up once. After that UnoPim rebuilds it on a schedule, so ChatGP
 
 1. **Configure** which channel, locale and currencies to export, your store details, and which UnoPim attribute fills each feed field.
 2. **Generate** the feed: click a button, let the scheduler do it, or run a command.
-3. **Deliver** it to OpenAI, either by giving OpenAI your protected feed URL or by letting UnoPim upload each new file over SFTP.
+3. **Deliver** it to OpenAI by letting UnoPim upload each new file over SFTP. A protected feed URL is also available for downloading and checking the file.
 4. **Monitor** every run from the dashboard and the generation history.
+
+> [!IMPORTANT]
+> ChatGPT shopping is currently live for **United States** shoppers only, and merchants must be approved by OpenAI at [chatgpt.com/merchants](https://chatgpt.com/merchants). See [Submitting to ChatGPT](./submitting-to-chatgpt.md).
 
 ---
 

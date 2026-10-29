@@ -57,7 +57,7 @@ Fewer products than expected? See [Troubleshooting › Some products are missing
 
 ## 6. Send the feed to OpenAI
 
-Copy the **Public Feed URL** from the dashboard and register it at [chatgpt.com/merchants](https://chatgpt.com/merchants), or set up [SFTP Delivery](./sftp-delivery.md) if OpenAI gave you SFTP details.
+Apply at [chatgpt.com/merchants](https://chatgpt.com/merchants). Once OpenAI approves you, enter the SFTP details they give you in [SFTP Delivery](./sftp-delivery.md) and every new feed is uploaded automatically. ChatGPT shopping is currently live for US shoppers only.
 
 ![OpenAI Product Feed dashboard with status cards, the public feed URL and recent generation history](./images/dashboard.png)
 
